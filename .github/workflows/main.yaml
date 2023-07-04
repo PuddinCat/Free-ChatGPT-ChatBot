@@ -2,6 +2,7 @@ name: get-chatgpt-api
 on:
   schedule:
     - cron: "37 */8 * * *"
+  push:
 jobs:
   get-chatgpt-api:
     runs-on: ubuntu-latest
