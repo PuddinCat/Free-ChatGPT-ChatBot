@@ -287,7 +287,7 @@ async def main():
     )
     all_list = "".join("- {}\n".format(detail["url"]) for detail in output_details)
 
-    with open("output.md", "w") as f:
+    with open("README.md", "w") as f:
         f.write(TEMPLATE.format(recent=recent_list, all=all_list))
 
 
