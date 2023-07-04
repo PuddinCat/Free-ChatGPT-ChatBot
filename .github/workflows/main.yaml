@@ -1,8 +1,9 @@
 name: get-chatgpt-api
 on:
-  push:
+  schedule:
+    - cron: "37 */8 * * *"
 jobs:
-  say-hello:
+  get-chatgpt-api:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
