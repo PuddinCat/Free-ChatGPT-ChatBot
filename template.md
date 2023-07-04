@@ -1,5 +1,7 @@
 # 搜刮全网公开ChatGPT站点！
 
+[![get-chatgpt-api](https://github.com/PuddinCat/Free-ChatGPT-ChatBot/actions/workflows/main.yaml/badge.svg)](https://github.com/PuddinCat/Free-ChatGPT-ChatBot/actions/workflows/main.yaml)
+
 使用github action+shodan+python爬虫搜刮全网公开的ChatGPT站点喵，持续更新喵🥳
 
 ~~搜刮在网上不小心公开的ChatGPT站点喵~~
