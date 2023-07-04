@@ -1,0 +1,21 @@
+name: get-chatgpt-api
+on:
+  push:
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+      -
+        name: Do stuff
+        run: |
+          python3 -m pip install requests_html shodan
+          python3 main.py
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add . && git commit -m 'Update: '"$(date)" && git push
+      -
+        name: Say Goodbye
+        run: echo "Goodbye!"
+
