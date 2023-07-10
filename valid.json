@@ -15,21 +15,6 @@
     "type": "chatgpt_next_web"
   },
   {
-    "url": "http://43.130.42.162:8081",
-    "date": 1688869608.2981758,
-    "type": "chatgpt_next_web"
-  },
-  {
-    "url": "http://43.130.42.162:8081",
-    "date": 1688834675.8681958,
-    "type": "chatgpt_next_web"
-  },
-  {
-    "url": "http://27.102.132.226:3001",
-    "date": 1688782532.4648526,
-    "type": "ioanmo226"
-  },
-  {
     "url": "http://47.242.117.63:8081",
     "date": 1688748370.428162,
     "type": "chatgpt_next_web"
@@ -42,6 +27,11 @@
   {
     "url": "http://154.31.24.42:3001",
     "date": 1688748370.428163,
+    "type": "chatgpt_next_web"
+  },
+  {
+    "url": "http://23.94.75.7:3001",
+    "date": 1688719416.7422729,
     "type": "chatgpt_next_web"
   },
   {
@@ -60,9 +50,9 @@
     "type": "chatgpt_next_web"
   },
   {
-    "url": "http://89.117.49.41:3001",
-    "date": 1688489256.398769,
-    "type": "ioanmo226"
+    "url": "http://124.70.27.137:8181",
+    "date": 1688546710.8012204,
+    "type": "chatgpt_next_web"
   },
   {
     "url": "http://198.199.71.141:3001",
@@ -95,13 +85,8 @@
     "type": "chatbotui"
   },
   {
-    "url": "http://27.102.132.226:3001",
-    "date": 1688467882.749479,
-    "type": "ioanmo226"
-  },
-  {
     "url": "http://198.199.71.141:3001",
-    "date": 1688424014.08014,
+    "date": 1688434916.2821312,
     "type": "ioanmo226"
   },
   {
@@ -115,6 +100,11 @@
     "type": "chatgpt_next_web"
   },
   {
+    "url": "http://124.70.27.137:8181",
+    "date": 1688402235.1427703,
+    "type": "chatgpt_next_web"
+  },
+  {
     "url": "http://192.144.216.117:5001",
     "date": 1688402235.142771,
     "type": "chatgpt_next_web"
@@ -122,11 +112,6 @@
   {
     "url": "http://154.31.24.15:3001",
     "date": 1688402235.1427715,
-    "type": "chatgpt_next_web"
-  },
-  {
-    "url": "http://45.66.217.241:3001",
-    "date": 1688402235.142772,
     "type": "chatgpt_next_web"
   },
   {
